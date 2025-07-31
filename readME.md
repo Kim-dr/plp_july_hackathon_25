@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a professional portfolio website for Kimberly Agatha Kagasi, a Business Information Technology student passionate about tech and coding. The site showcases my skills, education, projects, and interests in an elegant, modern design with interactive elements.
-This repository is not only for the PLP Hackathon July 2025 but also a chance for me to push my limits and test my capabilities when it comes to raw or vanilla HTML and CSS. I can positivelt say it has been an eye opening experience for me and I look forward to adding even more features to the portfolio using more of what I'll learn in the PLP Africa classes. 
+This repository is not only for the PLP Hackathon July 2025 but also a chance for me to push my limits and test my capabilities when it comes to raw or vanilla HTML and CSS. I can positively say it has been an eye opening experience for me and I look forward to adding even more features to the portfolio using more of what I'll learn in the PLP Africa classes. 
 With that said , here are the details entailed in my web portfolio website . Happy reading;
 
 ![Portfolio Screenshot](./web_portfolio_screenshot.png)
