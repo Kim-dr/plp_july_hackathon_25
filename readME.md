@@ -138,7 +138,7 @@ Kimberly-Portfolio/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Live Demo
-View the portfolio live at: [https://gleaming-basbousa-cb6b03.netlify.app/](https://gleaming-basbousa-cb6b03.netlify.app/)
+View the portfolio live at: [https://gleaming-basbousa-cb6b03.netlify.app/](https://gleaming-basbousa-cb6b03.netlify.app/) or on Github pages using this link : [https://kim-dr.github.io/plp_july_hackathon_25/] (https://kim-dr.github.io/plp_july_hackathon_25/)
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
